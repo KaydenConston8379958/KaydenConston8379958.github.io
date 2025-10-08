@@ -1,6 +1,5 @@
-
    body {
-       background: blue;
+       background: red;
        color: navy;
        padding: 10px;
        font-family: arial;
@@ -12,7 +11,7 @@
 
    /* navigation menu */
    nav {
-       background: red;
+       background: blue;
       margin: 0 auto;
      margin-bottom: 20px;
        display: flex;
@@ -63,7 +62,6 @@
    h2, h3 {
        margin: 0px;
    }
-
 
 
 
